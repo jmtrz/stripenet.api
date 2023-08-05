@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZWQLpOMoVeKxNQK5OjrpOvqJAXWGOnIBk568HWQFJZU=",
+  "Source": "stripenet.api",
+  "BasePath": "_content/stripenet.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
